@@ -8,8 +8,8 @@ well for me at least. If you feel like it, give it a try!
 - Use Vim controls wherever possible (copy mode, window and pane manipulation). 
 
 ## Installation
-1. Clone the repo with `git clone https://github.com/karlfloersch/tmux.conf.git" ~/.tmux/` 
-2. Make a symlink to the tmux.conf file with `ln ~/.tmux/.tmux.conf/tmux.conf ~/.tmux.conf`
+1. Clone the repo with `git clone https://github.com/karlfloersch/tmux.conf.git ~/.tmux/` 
+2. Make a symlink to the tmux.conf file with `ln ~/.tmux/tmux.conf ~/.tmux.conf`
 3. Run tmux! You're good to go!
 
 Feel free to git pull if you feel like getting my updated changes 
